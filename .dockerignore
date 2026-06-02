@@ -62,5 +62,4 @@ deny.toml
 _typos.toml
 rustfmt.toml
 component-registry.json
-policy.yaml
 install.sh
